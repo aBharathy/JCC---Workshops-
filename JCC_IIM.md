@@ -1,6 +1,6 @@
 
 
-###Work shop on JCC to IIM II year
+###Work shop on JCC to IIM II year###
 
 | Date    | Topics covered        | Description |Time
 | ----------  |:---------------:| ----------- | ------|
